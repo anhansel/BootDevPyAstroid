@@ -219,3 +219,4 @@ __marimo__/
 
 # BootDevGameLogger
 game_state.jsonl
+game_events.jsonl
